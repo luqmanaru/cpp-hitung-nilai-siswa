@@ -1,6 +1,8 @@
 # cpp-hitung-nilai-siswa
 Latihan menghitung nilai akhir berdasarkan keaktifan, tugas, dan ujian
 
+---
+
 # 🧮 Program Hitung Nilai Akhir Siswa - C++
 
 Ini adalah program sederhana berbasis **C++** yang digunakan untuk menghitung **nilai akhir siswa** berdasarkan tiga komponen penilaian:
@@ -48,6 +50,8 @@ int main()
 }
 ```
 
+---
+
 ## 🎯 Tujuan Program
 - Melatih penggunaan cin dan cout
 - Memahami proses penghitungan berbasis persentase
@@ -55,6 +59,6 @@ int main()
 
 ---
 
-Hanif
+luqmanaru
 
 Program ini ditulis untuk tugas kuliah C++ dasar.
