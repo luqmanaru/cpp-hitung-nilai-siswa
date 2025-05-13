@@ -53,6 +53,8 @@ int main()
 - Memahami proses penghitungan berbasis persentase
 - Belajar pengolahan input dan output di C++
 
+---
+
 Hanif
 
 Program ini ditulis untuk tugas kuliah C++ dasar.
